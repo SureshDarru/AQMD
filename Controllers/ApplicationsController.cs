@@ -6,6 +6,8 @@ using Swashbuckle.AspNetCore.Annotations;
 
 namespace AQMDCore.Api.Controllers
 {
+
+    //changes
     [Route("api/[controller]")]
     [ApiController]
     public class ApplicationsController : ControllerBase
